@@ -1,0 +1,2 @@
+# InfiniGPT
+天资
