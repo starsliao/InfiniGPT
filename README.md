@@ -6,7 +6,7 @@
 - #set_openai_api_key api_key : 设置你的OpenAI私有api_key
 - #reset_openai_api_key : 重置为默认的api_key
 
-## 目前可用功能与操作指令:
+## 输入#help 编号 获取各功能的操作指令,如:#help 2 获取新闻榜单操作指令,已实现功能:
 ### 1. ChatGPT交互(发语音回语音/发文本回文本)
 
 ### 2. 实时新闻榜单获取(已支持:百度,知乎,微博,抖音,cnBeta)
