@@ -2,10 +2,10 @@
 天资
 
 通用指令：
-#reset : 重置会话,清空与ChatGPT的记录,开始新的聊天!
-#id : 获取企业微信用户id
-#set_openai_api_key api_key: 设置你的OpenAI私有api_key
-#reset_openai_api_key : 重置为默认的api_key
+- #reset : 重置会话,清空与ChatGPT的记录,开始新的聊天!
+- #id : 获取企业微信用户id
+- #set_openai_api_key api_key: 设置你的OpenAI私有api_key
+- #reset_openai_api_key : 重置为默认的api_key
 
 目前可用功能与操作指令:
 1. 基础ChatGPT交互(发语音回语音/发文本回文本)
